@@ -1,122 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0cb7a4b-3af5-4e3d-9c00-ef23c08fd59a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/bytedance/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/bytedance/NO1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/bytedance/No4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/abstractfactory/Article.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/abstractfactory/CourseFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/abstractfactory/JavaArticle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/abstractfactory/JavaCourseFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/abstractfactory/JavaVideo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/abstractfactory/PythonArticle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/abstractfactory/PythonCourseFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/abstractfactory/PythonVideo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/abstractfactory/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/abstractfactory/Video.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/builder/Coach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/builder/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/builder/CourseActualBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/builder/CourseBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/builder/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/builder/v2/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/builder/v2/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/factorymethod/FEVideo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/factorymethod/FEVideoFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/factorymethod/JavaVideo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/factorymethod/JavaVideoFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/factorymethod/PythonVideo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/factorymethod/PythonVideoFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/factorymethod/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/factorymethod/Video.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/factorymethod/VideoFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/prototype/Mail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/prototype/MailUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/prototype/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/prototype/abstractprototype/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/prototype/abstractprototype/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/prototype/clone/Pig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/prototype/clone/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/simplefactory/JavaVideo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/simplefactory/PythonVideo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/simplefactory/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/simplefactory/Video.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/simplefactory/VideoFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/singlton/ContainerSinglton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/singlton/EnumInstance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/singlton/HungrySingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/singlton/LazyDoubleCheckSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/singlton/LazySingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/singlton/StaticInnerClassSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/singlton/T.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/singlton/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/singlton/ThreadLocalInstance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/eventbus/AsyncEventBus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/eventbus/Bus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/eventbus/Dispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/eventbus/EventBus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/eventbus/EventContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/eventbus/EventExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/eventbus/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/eventbus/Registry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/eventbus/SimpleSubscriber1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/eventbus/Subscribe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/eventbus/Subscriber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/principle/demeter/Boss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/principle/demeter/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/principle/demeter/TeamLeader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/principle/demeter/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/principle/denpendenceinversion/CLthinking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/principle/denpendenceinversion/ICource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/principle/denpendenceinversion/JavaCource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/principle/denpendenceinversion/PythonCource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/principle/denpendenceinversion/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/principle/interfacesegregation/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/principle/interfacesegregation/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/principle/interfacesegregation/IAnimalAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/principle/interfacesegregation/IEatAnimalAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/principle/interfacesegregation/IFlyAnimalAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/principle/interfacesegregation/ISwimAnimalAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/principle/openclose/ICourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/principle/openclose/JavaCource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/principle/openclose/JavaDiscountCourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/principle/openclose/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/principle/singleresponsibility/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/principle/singleresponsibility/FlyBrid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/principle/singleresponsibility/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/principle/singleresponsibility/WalkBrid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/duxiaoman/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/enumtest/EnumTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/leetcode/Base7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/leetcode/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/leetcode/CoinChange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/leetcode/CoinChangeII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/leetcode/CustomSortString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/leetcode/DungeonGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/leetcode/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/leetcode/FibonacciNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/leetcode/FindFirstAndLastPositionOfElementInSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/leetcode/FourSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/leetcode/FrogJump.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/leetcode/GenerateParentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/leetcode/JumpGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/leetcode/JumpGameII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/leetcode/RelativeSortArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/leetcode/RemoveElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/leetcode/ShortestWordDistance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/leetcode/StringCompression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/pinduoduo/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/tencent/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/vivo/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/uestc/bytedance/NO2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/uestc/bytedance/NO2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/uestc/leetcode/FourSumII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/uestc/leetcode/FourSumII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/uestc/leetcode/SearchInsertPosition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/uestc/leetcode/SearchInsertPosition.java" afterDir="false" />
-    </list>
+    <list default="true" id="d0cb7a4b-3af5-4e3d-9c00-ef23c08fd59a" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -202,121 +87,92 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/28.0-jre/2d1dca555245ef4bacb35f25299f323d8dd10b27/guava-28.0-jre-sources.jar!/com/google/common/eventbus/package-info.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/28.0-jre/2d1dca555245ef4bacb35f25299f323d8dd10b27/guava-28.0-jre-sources.jar!/com/google/common/eventbus/AllowConcurrentEvents.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="34" column="42" selection-start-line="34" selection-start-column="42" selection-end-line="34" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/28.0-jre/2d1dca555245ef4bacb35f25299f323d8dd10b27/guava-28.0-jre-sources.jar!/com/google/common/eventbus/Subscribe.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="748">
+              <caret line="38" column="30" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/singlton/Test.java">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/28.0-jre/2d1dca555245ef4bacb35f25299f323d8dd10b27/guava-28.0-jre-sources.jar!/com/google/common/eventbus/SubscriberRegistry.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="20" column="39" lean-forward="true" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="314">
+              <caret line="164" column="58" selection-start-line="164" selection-start-column="41" selection-end-line="164" selection-end-column="58" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/prototype/Mail.java">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/28.0-jre/2d1dca555245ef4bacb35f25299f323d8dd10b27/guava-28.0-jre-sources.jar!/com/google/common/collect/Multimap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="39" column="13" lean-forward="true" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
-              <folding>
-                <element signature="e#242#243#0" expanded="true" />
-                <element signature="e#278#279#0" expanded="true" />
-                <element signature="e#329#330#0" expanded="true" />
-                <element signature="e#356#357#0" expanded="true" />
-                <element signature="e#396#397#0" expanded="true" />
-                <element signature="e#428#429#0" expanded="true" />
-                <element signature="e#467#468#0" expanded="true" />
-                <element signature="e#502#503#0" expanded="true" />
-                <element signature="e#558#559#0" expanded="true" />
-                <element signature="e#606#607#0" expanded="true" />
-                <element signature="e#640#641#0" expanded="true" />
-                <element signature="e#670#671#0" expanded="true" />
-                <element signature="e#716#717#0" expanded="true" />
-                <element signature="e#754#755#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="10744">
+              <caret line="341" selection-start-line="341" selection-end-line="341" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/prototype/MailUtil.java">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/28.0-jre/2d1dca555245ef4bacb35f25299f323d8dd10b27/guava-28.0-jre-sources.jar!/com/google/common/collect/HashMultimap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="16" column="76" selection-start-line="16" selection-start-column="76" selection-end-line="16" selection-end-column="76" />
+            <state relative-caret-position="782">
+              <caret line="46" column="60" selection-start-line="46" selection-start-column="60" selection-end-line="46" selection-end-column="60" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/singlton/HungrySingleton.java">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/28.0-jre/2d1dca555245ef4bacb35f25299f323d8dd10b27/guava-28.0-jre-sources.jar!/com/google/common/collect/HashMultimapGwtSerializationDependencies.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="544">
+              <caret line="32" column="82" selection-start-line="32" selection-start-column="82" selection-end-line="32" selection-end-column="82" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/prototype/Test.java">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/28.0-jre/2d1dca555245ef4bacb35f25299f323d8dd10b27/guava-28.0-jre-sources.jar!/com/google/common/collect/AbstractSetMultimap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+            <state relative-caret-position="476">
+              <caret line="35" column="56" selection-start-line="35" selection-start-column="56" selection-end-line="35" selection-end-column="56" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/prototype/abstractprototype/A.java">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/28.0-jre/2d1dca555245ef4bacb35f25299f323d8dd10b27/guava-28.0-jre-sources.jar!/com/google/common/collect/AbstractMapBasedMultimap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="1530">
+              <caret line="86" column="63" selection-start-line="86" selection-start-column="63" selection-end-line="86" selection-end-column="63" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/prototype/abstractprototype/B.java">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/28.0-jre/2d1dca555245ef4bacb35f25299f323d8dd10b27/guava-28.0-jre-sources.jar!/com/google/common/collect/AbstractMultimap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/prototype/clone/Pig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="409">
-              <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
-              <folding>
-                <element signature="e#355#356#0" expanded="true" />
-                <element signature="e#382#383#0" expanded="true" />
-                <element signature="e#422#423#0" expanded="true" />
-                <element signature="e#454#455#0" expanded="true" />
-                <element signature="e#487#488#0" expanded="true" />
-                <element signature="e#518#519#0" expanded="true" />
-                <element signature="e#564#565#0" expanded="true" />
-                <element signature="e#604#605#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/prototype/clone/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="382">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_191/src.zip!/java/lang/Object.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1971">
-              <caret line="150" lean-forward="true" selection-start-line="150" selection-end-line="150" />
+            <state relative-caret-position="408">
+              <caret line="40" column="54" selection-start-line="40" selection-start-column="54" selection-end-line="40" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -473,6 +329,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
@@ -670,9 +527,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="916" extended-state="6" />
+    <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49936143" visible="true" weight="0.23280802" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49936143" visible="true" weight="0.2585837" />
       <window_info id="Structure" order="1" sideWeight="0.50063854" side_tool="true" weight="0.21060172" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -705,6 +562,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2019年7月16日 Ubuntu提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019年7月16日 Ubuntu提交" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
