@@ -3,58 +3,119 @@
   <component name="ChangeListManager">
     <list default="true" id="d0cb7a4b-3af5-4e3d-9c00-ef23c08fd59a" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/Calc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/BinaryOperateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/FunctionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/FunctionTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/LambdaTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/MethodReferenceDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/OptionalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/PersonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/PredicateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/StreamTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/StreamTest10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/StreamTest11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/StreamTest12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/StreamTest13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/StreamTest14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/StreamTest15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/StreamTest16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/StreamTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/StreamTest3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/StreamTest4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/StreamTest5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/StreamTest6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/StreamTest7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/StreamTest8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/StreamTest9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/StringComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/StudentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/SupplierTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/SwingTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/source/analyze/ConsumerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/source/analyze/MyComparatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/source/analyze/MySetCollector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/source/analyze/MySetCollector2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/source/analyze/StreamTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/source/analyze/StreamTest3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/source/analyze/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/bytedance/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/bytedance/NO1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/bytedance/No4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/abstractfactory/Article.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/abstractfactory/CourseFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/abstractfactory/JavaArticle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/abstractfactory/JavaCourseFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/abstractfactory/JavaVideo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/abstractfactory/PythonArticle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/abstractfactory/PythonCourseFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/abstractfactory/PythonVideo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/abstractfactory/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/abstractfactory/Video.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/builder/Coach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/builder/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/builder/CourseActualBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/builder/CourseBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/builder/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/builder/v2/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/builder/v2/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/factorymethod/FEVideo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/factorymethod/FEVideoFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/factorymethod/JavaVideo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/factorymethod/JavaVideoFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/factorymethod/PythonVideo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/factorymethod/PythonVideoFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/factorymethod/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/factorymethod/Video.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/factorymethod/VideoFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/prototype/Mail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/prototype/MailUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/prototype/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/prototype/abstractprototype/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/prototype/abstractprototype/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/prototype/clone/Pig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/prototype/clone/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/simplefactory/JavaVideo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/simplefactory/PythonVideo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/simplefactory/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/simplefactory/Video.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/simplefactory/VideoFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/singlton/ContainerSinglton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/singlton/EnumInstance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/singlton/HungrySingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/singlton/LazyDoubleCheckSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/singlton/LazySingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/singlton/StaticInnerClassSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/singlton/T.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/singlton/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/singlton/ThreadLocalInstance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/eventbus/AsyncEventBus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/eventbus/Bus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/eventbus/Dispatcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/eventbus/EventBus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/eventbus/EventContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/eventbus/EventExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/eventbus/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/eventbus/Registry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/eventbus/SimpleSubscriber1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/eventbus/Subscribe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/eventbus/Subscriber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/principle/demeter/Boss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/principle/demeter/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/principle/demeter/TeamLeader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/principle/demeter/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/principle/denpendenceinversion/CLthinking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/principle/denpendenceinversion/ICource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/principle/denpendenceinversion/JavaCource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/principle/denpendenceinversion/PythonCource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/principle/denpendenceinversion/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/principle/interfacesegregation/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/principle/interfacesegregation/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/principle/interfacesegregation/IAnimalAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/principle/interfacesegregation/IEatAnimalAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/principle/interfacesegregation/IFlyAnimalAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/principle/interfacesegregation/ISwimAnimalAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/principle/openclose/ICourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/principle/openclose/JavaCource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/principle/openclose/JavaDiscountCourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/principle/openclose/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/principle/singleresponsibility/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/principle/singleresponsibility/FlyBrid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/principle/singleresponsibility/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/principle/singleresponsibility/WalkBrid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/duxiaoman/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/enumtest/EnumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/leetcode/Base7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/leetcode/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/leetcode/CoinChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/leetcode/CoinChangeII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/leetcode/CustomSortString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/leetcode/DungeonGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/leetcode/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/leetcode/FibonacciNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/leetcode/FindFirstAndLastPositionOfElementInSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/leetcode/FourSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/leetcode/FrogJump.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/leetcode/GenerateParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/leetcode/JumpGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/leetcode/JumpGameII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/leetcode/RelativeSortArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/leetcode/RemoveElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/leetcode/ShortestWordDistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/leetcode/StringCompression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/pinduoduo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/tencent/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uestc/vivo/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/uestc/designpattern/event_driven_framework/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/uestc/designpattern/event_driven_framework/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/uestc/bytedance/NO2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/uestc/bytedance/NO2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/uestc/leetcode/FourSumII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/uestc/leetcode/FourSumII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/uestc/leetcode/SearchInsertPosition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/uestc/leetcode/SearchInsertPosition.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -64,6 +125,20 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/LeetCode$com_uestc_leetcode_in_LeetCode_LeetCode_main.ic" NAME="com.uestc.leetcode in LeetCode.LeetCode.main Coverage Results" MODIFIED="1562829259804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.uestc.leetcode.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/LeetCode$Main__2_.ic" NAME="Main (2) Coverage Results" MODIFIED="1563024149269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.uestc.pinduoduo.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/LeetCode$Test__1_.ic" NAME="Test (1) Coverage Results" MODIFIED="1563246427849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.uestc.designpattern.creational.singlton.*</FILTER>
+    </SUITE>
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -113,6 +188,11 @@
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
                 <item name="build" type="c8890929:TasksNode$1" />
               </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="LeetCode" type="f1a62948:ProjectNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+              </path>
             </expand>
             <select />
           </tree_state>
@@ -122,92 +202,121 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/28.0-jre/2d1dca555245ef4bacb35f25299f323d8dd10b27/guava-28.0-jre-sources.jar!/com/google/common/eventbus/package-info.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7550">
-              <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/28.0-jre/2d1dca555245ef4bacb35f25299f323d8dd10b27/guava-28.0-jre-sources.jar!/com/google/common/eventbus/AllowConcurrentEvents.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="604">
-              <caret line="34" column="42" lean-forward="true" selection-start-line="34" selection-start-column="42" selection-end-line="34" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/28.0-jre/2d1dca555245ef4bacb35f25299f323d8dd10b27/guava-28.0-jre-sources.jar!/com/google/common/eventbus/Subscribe.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="748">
-              <caret line="38" column="30" lean-forward="true" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/28.0-jre/2d1dca555245ef4bacb35f25299f323d8dd10b27/guava-28.0-jre-sources.jar!/com/google/common/eventbus/SubscriberRegistry.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/singlton/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="168" column="29" lean-forward="true" selection-start-line="168" selection-start-column="29" selection-end-line="168" selection-end-column="29" />
+            <state relative-caret-position="540">
+              <caret line="20" column="39" lean-forward="true" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/28.0-jre/2d1dca555245ef4bacb35f25299f323d8dd10b27/guava-28.0-jre-sources.jar!/com/google/common/collect/Multimap.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/prototype/Mail.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="341" lean-forward="true" selection-start-line="341" selection-end-line="341" />
+            <state relative-caret-position="247">
+              <caret line="39" column="13" lean-forward="true" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+              <folding>
+                <element signature="e#242#243#0" expanded="true" />
+                <element signature="e#278#279#0" expanded="true" />
+                <element signature="e#329#330#0" expanded="true" />
+                <element signature="e#356#357#0" expanded="true" />
+                <element signature="e#396#397#0" expanded="true" />
+                <element signature="e#428#429#0" expanded="true" />
+                <element signature="e#467#468#0" expanded="true" />
+                <element signature="e#502#503#0" expanded="true" />
+                <element signature="e#558#559#0" expanded="true" />
+                <element signature="e#606#607#0" expanded="true" />
+                <element signature="e#640#641#0" expanded="true" />
+                <element signature="e#670#671#0" expanded="true" />
+                <element signature="e#716#717#0" expanded="true" />
+                <element signature="e#754#755#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/28.0-jre/2d1dca555245ef4bacb35f25299f323d8dd10b27/guava-28.0-jre-sources.jar!/com/google/common/collect/HashMultimap.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/prototype/MailUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="46" column="60" selection-start-line="46" selection-start-column="60" selection-end-line="46" selection-end-column="60" />
+            <state relative-caret-position="432">
+              <caret line="16" column="76" selection-start-line="16" selection-start-column="76" selection-end-line="16" selection-end-column="76" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/28.0-jre/2d1dca555245ef4bacb35f25299f323d8dd10b27/guava-28.0-jre-sources.jar!/com/google/common/collect/HashMultimapGwtSerializationDependencies.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/singlton/HungrySingleton.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="536">
-              <caret line="32" column="82" selection-start-line="32" selection-start-column="82" selection-end-line="32" selection-end-column="82" />
+            <state relative-caret-position="405">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/28.0-jre/2d1dca555245ef4bacb35f25299f323d8dd10b27/guava-28.0-jre-sources.jar!/com/google/common/collect/AbstractSetMultimap.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/prototype/Test.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="280">
-              <caret line="35" column="56" selection-start-line="35" selection-start-column="56" selection-end-line="35" selection-end-column="56" />
+              <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/28.0-jre/2d1dca555245ef4bacb35f25299f323d8dd10b27/guava-28.0-jre-sources.jar!/com/google/common/collect/AbstractMapBasedMultimap.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/prototype/abstractprototype/A.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="86" column="63" selection-start-line="86" selection-start-column="63" selection-end-line="86" selection-end-column="63" />
+            <state relative-caret-position="243">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/28.0-jre/2d1dca555245ef4bacb35f25299f323d8dd10b27/guava-28.0-jre-sources.jar!/com/google/common/collect/AbstractMultimap.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/prototype/abstractprototype/B.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="40" column="54" lean-forward="true" selection-start-line="40" selection-start-column="54" selection-end-line="40" selection-end-column="54" />
+            <state relative-caret-position="324">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/prototype/clone/Pig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="409">
+              <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+              <folding>
+                <element signature="e#355#356#0" expanded="true" />
+                <element signature="e#382#383#0" expanded="true" />
+                <element signature="e#422#423#0" expanded="true" />
+                <element signature="e#454#455#0" expanded="true" />
+                <element signature="e#487#488#0" expanded="true" />
+                <element signature="e#518#519#0" expanded="true" />
+                <element signature="e#564#565#0" expanded="true" />
+                <element signature="e#604#605#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/prototype/clone/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="382">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_191/src.zip!/java/lang/Object.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1971">
+              <caret line="150" lean-forward="true" selection-start-line="150" selection-end-line="150" />
             </state>
           </provider>
         </entry>
@@ -219,7 +328,10 @@
       <list>
         <option value="JUnit4 Test Class" />
         <option value="Kotlin Class" />
+        <option value="AnnotationType" />
+        <option value="package-info" />
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -228,6 +340,9 @@
     <toolWindowGroupBy>Class</toolWindowGroupBy>
   </component>
   <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getInstance</find>
+    </findStrings>
     <replaceStrings>
       <replace />
     </replaceStrings>
@@ -241,57 +356,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/event_driven_framework/event/AbstractEvent.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/event_driven_framework/event/UeerCreatEvent.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/event_driven_framework/event/UserUpdateEvent.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/event_driven_framework/model/User.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/event_driven_framework/handler/UserCreatEventHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/event_driven_framework/handler/UserUpdateEventHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/uestc/leetcode/PathInZigzagLabelledBinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/event_driven_framework/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/uestc/Calc.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/SwingTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/Test1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/MyInterface.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/Test2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/Test3.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/StringComparator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/FunctionTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/FunctionTest2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/Person.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/PersonTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/PredicateTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/SupplierTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/Student.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/StudentTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/OptionalTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/MethodReferenceDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/StreamTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/StreamTest2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/StreamTest3.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/StreamTest4.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/StreamTest5.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/StreamTest6.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/StreamTest7.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/StreamTest8.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/StreamTest9.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/StreamTest10.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/StreamTest11.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/StreamTest12.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/StreamTest13.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/source/analyze/Student.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/source/analyze/StreamTest1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/source/analyze/MyComparatorTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/source/analyze/MySetCollector.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/source/analyze/MySetCollector2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/source/analyze/StreamTest3.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/source/analyze/ConsumerTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/LambdaTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/BinaryOperateTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/StreamTest14.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/StreamTest15.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/uestc/jdk8/StreamTest16.java" />
-        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/principle/interfacesegregation/IFlyAnimalAction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/principle/interfacesegregation/IEatAnimalAction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/principle/interfacesegregation/ISwimAnimalAction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/principle/demeter/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/principle/demeter/Boss.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/principle/demeter/TeamLeader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/simplefactory/Video.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/simplefactory/JavaVideo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/simplefactory/PythonVideo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/simplefactory/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/simplefactory/VideoFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/factorymethod/VideoFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/factorymethod/JavaVideoFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/factorymethod/PythonVideoFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/factorymethod/FEVideo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/factorymethod/FEVideoFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/factorymethod/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/abstractfactory/Video.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/abstractfactory/Article.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/abstractfactory/CourseFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/abstractfactory/JavaVideo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/abstractfactory/JavaArticle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/abstractfactory/PythonArticle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/abstractfactory/PythonVideo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/abstractfactory/PythonCourseFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/abstractfactory/JavaCourseFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/abstractfactory/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/builder/CourseBuilder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/builder/CourseActualBuilder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/builder/Course.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/builder/Coach.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/builder/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/builder/v2/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/builder/v2/Course.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uestc/duxiaoman/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/singlton/LazyDoubleCheckSingleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/singlton/StaticInnerClassSingleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/singlton/HungrySingleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/singlton/LazySingleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/singlton/EnumInstance.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/singlton/ContainerSinglton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/singlton/ThreadLocalInstance.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/singlton/T.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/singlton/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/prototype/MailUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/prototype/Mail.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/prototype/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/prototype/abstractprototype/A.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/prototype/abstractprototype/B.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/prototype/clone/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/prototype/clone/Pig.java" />
       </list>
     </option>
   </component>
@@ -302,9 +417,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="25" />
-    <option name="width" value="960" />
-    <option name="height" value="1055" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1456" />
+    <option name="height" value="916" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -316,7 +432,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -350,74 +465,29 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="uestc" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="uestc" type="462c0819:PsiDirectoryNode" />
-              <item name="jdk8" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: com.google.guava:guava:28.0-jre" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: com.google.guava:guava:28.0-jre" type="70bed36:NamedLibraryElementNode" />
-              <item name="guava-28.0-jre.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: com.google.guava:guava:28.0-jre" type="70bed36:NamedLibraryElementNode" />
-              <item name="guava-28.0-jre.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="google" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: com.google.guava:guava:28.0-jre" type="70bed36:NamedLibraryElementNode" />
-              <item name="guava-28.0-jre.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="google" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: com.google.guava:guava:28.0-jre" type="70bed36:NamedLibraryElementNode" />
-              <item name="guava-28.0-jre.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="google" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="eventbus" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$USER_HOME$/software/jdk/jdk1.8.0_211/src" />
+    <property name="last_opened_file_path" value="D:/javaDesignPattern/java-design-patterns" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -426,7 +496,11 @@
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IntelliJWorkplace\leetcode\src\main\java\com\uestc\designpattern\creational\simplefactory" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.uestc.designpattern.creational.abstractfactory" />
       <recent name="com.uestc.designpattern.adapter.delegation" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -445,13 +519,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StreamTest16">
-    <configuration name="LambdaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.uestc.jdk8.LambdaTest" />
-      <module name="LeetCode.main" />
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.uestc.designpattern.creational.prototype.abstractprototype.B" />
+      <module name="LeetCode.LeetCode.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.uestc.jdk8.*" />
+          <option name="PATTERN" value="com.uestc.designpattern.creational.prototype.abstractprototype.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -459,12 +533,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamTest12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.uestc.jdk8.StreamTest12" />
-      <module name="LeetCode.main" />
+    <configuration name="LazySingleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.uestc.designpattern.creational.singlton.LazySingleton" />
+      <module name="LeetCode.LeetCode.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.uestc.jdk8.*" />
+          <option name="PATTERN" value="com.uestc.designpattern.creational.singlton.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -472,12 +546,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamTest14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.uestc.jdk8.StreamTest14" />
-      <module name="LeetCode.main" />
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.uestc.designpattern.creational.singlton.Test" />
+      <module name="LeetCode.LeetCode.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.uestc.jdk8.*" />
+          <option name="PATTERN" value="com.uestc.designpattern.creational.singlton.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -485,12 +559,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamTest15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.uestc.jdk8.StreamTest15" />
-      <module name="LeetCode.main" />
+    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.uestc.designpattern.creational.prototype.Test" />
+      <module name="LeetCode.LeetCode.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.uestc.jdk8.*" />
+          <option name="PATTERN" value="com.uestc.designpattern.creational.prototype.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -498,12 +572,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamTest16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.uestc.jdk8.StreamTest16" />
-      <module name="LeetCode.main" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.uestc.designpattern.creational.prototype.clone.Test" />
+      <module name="LeetCode.LeetCode.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.uestc.jdk8.*" />
+          <option name="PATTERN" value="com.uestc.designpattern.creational.prototype.clone.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -513,11 +587,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StreamTest16" />
-        <item itemvalue="Application.StreamTest15" />
-        <item itemvalue="Application.StreamTest14" />
-        <item itemvalue="Application.LambdaTest" />
-        <item itemvalue="Application.StreamTest12" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.B" />
+        <item itemvalue="Application.Test (2)" />
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.LazySingleton" />
       </list>
     </recent_temporary>
   </component>
@@ -560,12 +634,18 @@
       <workItem from="1561862685214" duration="5138000" />
       <workItem from="1561883533875" duration="10000" />
       <workItem from="1561889582526" duration="1287000" />
-      <workItem from="1561961995018" duration="6318000" />
-      <workItem from="1562048482608" duration="58969000" />
-      <workItem from="1562400835761" duration="7185000" />
-      <workItem from="1562409967394" duration="23762000" />
-      <workItem from="1562494260588" duration="16009000" />
-      <workItem from="1562552379436" duration="3366000" />
+      <workItem from="1561961995018" duration="4765000" />
+      <workItem from="1562634920875" duration="595000" />
+      <workItem from="1562640630782" duration="9312000" />
+      <workItem from="1562669228259" duration="5665000" />
+      <workItem from="1562731687338" duration="16096000" />
+      <workItem from="1562829147322" duration="821000" />
+      <workItem from="1562832309603" duration="3067000" />
+      <workItem from="1562847144519" duration="1245000" />
+      <workItem from="1562853497912" duration="26005000" />
+      <workItem from="1562997267319" duration="42268000" />
+      <workItem from="1563188199635" duration="30594000" />
+      <workItem from="1563265095568" duration="7511000" />
     </task>
     <servers />
   </component>
@@ -573,9 +653,12 @@
     <history-entry file="ThreeSumTest_threeSum - 2019.06.14 at 13h 27m 42s.xml">
       <configuration name="ThreeSumTest.threeSum" configurationId="GradleRunConfiguration" />
     </history-entry>
+    <history-entry file="com_uestc_leetcode_in_LeetCode_LeetCode_main - 2019.07.11 at 15h 14m 36s.xml">
+      <configuration name="com.uestc.leetcode in LeetCode.LeetCode.main" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="284992000" />
+    <option name="totallyTimeSpent" value="317327000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -587,36 +670,37 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1456" height="916" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4955157" visible="true" weight="0.25482833" />
-      <window_info id="Structure" order="1" sideWeight="0.5044843" side_tool="true" weight="0.15236051" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49936143" visible="true" weight="0.23280802" />
+      <window_info id="Structure" order="1" sideWeight="0.50063854" side_tool="true" weight="0.21060172" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32931727" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.31950673" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3632287" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32822478" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49856734" weight="0.33716476" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49928367" weight="0.3358876" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32931727" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3295964" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5013405" side_tool="true" weight="0.083333336" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007163" side_tool="true" weight="0.38314176" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Build" order="12" weight="0.32931727" />
-      <window_info anchor="bottom" id="Statistic" order="13" sideWeight="0.49865952" weight="0.41367713" />
+      <window_info anchor="bottom" id="Statistic" order="13" sideWeight="0.49865952" weight="0.4147982" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="14" weight="0.32931727" />
       <window_info anchor="bottom" id="LuaCheck" order="15" />
+      <window_info anchor="bottom" id="Messages" order="16" weight="0.32950193" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.49896482" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Gradle" order="3" weight="0.32939914" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.3297587" />
       <window_info anchor="right" id="Maven" order="4" weight="0.3297587" />
       <window_info anchor="right" id="Database" order="5" weight="0.3297587" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Coverage" order="7" sideWeight="0.5010352" side_tool="true" weight="0.25" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -656,436 +740,779 @@
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$USER_HOME$/software/jdk/jdk1.8.0_211/src.zip!/java/util/stream/Collectors.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/uestc/leetcode/FindFirstAndLastPositionOfElementInSortedArray.java</url>
+          <line>9</line>
           <properties />
           <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/uestc/pinduoduo/Main.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/uestc/pinduoduo/Main.java</url>
+          <line>120</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/uestc/pinduoduo/Main.java</url>
+          <line>73</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/factorymethod/Test.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/singlton/T.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/singlton/Test.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/prototype/abstractprototype/A.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="28" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>video</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>cls.getName()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>video instanceof JavaVideo</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/software/jdk/jdk1.8.0_211/src.zip!/java/util/Spliterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="295" column="17" selection-start-line="295" selection-start-column="17" selection-end-line="295" selection-end-column="17" />
-          <folding>
-            <element signature="e#14944#14945#0" expanded="true" />
-            <element signature="e#14993#14994#0" expanded="true" />
-            <element signature="class#OfLong#0;class#Spliterator#0" />
-            <element signature="class#OfDouble#0;class#Spliterator#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/software/jdk/jdk1.8.0_211/src.zip!/java/util/Spliterators.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="654">
-          <caret line="899" column="37" lean-forward="true" selection-start-line="899" selection-start-column="37" selection-end-line="899" selection-end-column="37" />
-          <folding>
-            <element signature="e#42311#42312#0" expanded="true" />
-            <element signature="e#42357#42358#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/software/jdk/jdk1.8.0_211/jre/lib/javaws.jar!/com/sun/jnlp/AppletContainer.class">
-      <provider selected="true" editor-type-id="text-editor">
+    <entry file="uml://JAVA/java.util.ArrayList">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
-          <caret column="2" lean-forward="true" selection-start-column="2" selection-end-column="2" />
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.ArrayList</OriginalElement>
+          <nodes>
+            <node x="446.0" y="240.0">java.util.RandomAccess</node>
+            <node x="78.24999999999997" y="160.0">java.util.AbstractCollection</node>
+            <node x="251.24999999999997" y="160.0">java.util.List</node>
+            <node x="0.0" y="240.0">java.lang.Cloneable</node>
+            <node x="169.04999999999995" y="80.0">java.util.Collection</node>
+            <node x="125.99999999999997" y="240.0">java.util.AbstractList</node>
+            <node x="175.04999999999995" y="0.0">java.lang.Iterable</node>
+            <node x="252.49999999999997" y="320.0">java.util.ArrayList</node>
+            <node x="312.0" y="240.0">java.io.Serializable</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.util.ArrayList" target="java.lang.Cloneable">
+              <point x="-39.19999999999999" y="-15.0" />
+              <point x="262.29999999999995" y="300.0" />
+              <point x="53.0" y="300.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.util.ArrayList" target="java.util.RandomAccess">
+              <point x="39.19999999999999" y="-15.0" />
+              <point x="340.69999999999993" y="300.0" />
+              <point x="514.0" y="300.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.util.ArrayList" target="java.io.Serializable">
+              <point x="19.600000000000023" y="-15.0" />
+              <point x="321.1" y="290.0" />
+              <point x="369.0" y="290.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.util.List" target="java.util.Collection">
+              <point x="0.0" y="-15.0" />
+              <point x="284.75" y="135.0" />
+              <point x="247.79999999999995" y="135.0" />
+              <point x="26.25" y="15.0" />
+            </edge>
+            <edge source="java.util.Collection" target="java.lang.Iterable">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.util.AbstractList" target="java.util.List">
+              <point x="28.75" y="-15.0" />
+              <point x="212.24999999999997" y="215.0" />
+              <point x="268.0" y="215.0" />
+              <point x="-16.75" y="15.0" />
+            </edge>
+            <edge source="java.util.AbstractList" target="java.util.AbstractCollection">
+              <point x="-28.75" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.util.ArrayList" target="java.util.List">
+              <point x="0.0" y="-15.0" />
+              <point x="16.75" y="15.0" />
+            </edge>
+            <edge source="java.util.AbstractCollection" target="java.util.Collection">
+              <point x="0.0" y="-15.0" />
+              <point x="154.74999999999997" y="135.0" />
+              <point x="195.29999999999995" y="135.0" />
+              <point x="-26.25" y="15.0" />
+            </edge>
+            <edge source="java.util.ArrayList" target="java.util.AbstractList">
+              <point x="-19.600000000000023" y="-15.0" />
+              <point x="281.9" y="290.0" />
+              <point x="183.49999999999997" y="290.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.2000000000000002" x="79.0" y="182.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>public</VISIBILITY>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/software/jdk/jdk1.8.0_211/src.zip!/java/lang/Runnable.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/factorymethod/PythonVideo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="536">
-          <caret line="66" column="7" lean-forward="true" selection-start-line="66" selection-start-column="7" selection-end-line="66" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/uestc/jdk8/LambdaTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        <state relative-caret-position="324">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
           <folding>
-            <element signature="e#185#186#0" expanded="true" />
-            <element signature="e#229#230#0" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#246#247#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/software/jdk/jdk1.8.0_211/jre/lib/rt.jar!/sun/misc/Unsafe.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/abstractfactory/Video.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1243">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="243">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/software/jdk/jdk1.8.0_211/jre/lib/rt.jar!/sun/util/calendar/CalendarUtils.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/abstractfactory/JavaVideo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="11" column="49" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/software/jdk/jdk1.8.0_211/jre/lib/rt.jar!/sun/util/calendar/LocalGregorianCalendar.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/software/jdk/jdk1.8.0_211/src.zip!/java/time/LocalTime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="273" column="44" selection-start-line="273" selection-start-column="44" selection-end-line="273" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/software/jdk/jdk1.8.0_211/src.zip!/com/sun/org/apache/xpath/internal/operations/UnaryOperation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="35" column="62" lean-forward="true" selection-start-line="35" selection-start-column="62" selection-end-line="35" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/software/jdk/jdk1.8.0_211/src.zip!/java/util/function/Function.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-223">
-          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/software/jdk/jdk1.8.0_211/src.zip!/java/lang/ThreadLocal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="140" column="31" selection-start-line="140" selection-start-column="31" selection-end-line="140" selection-end-column="31" />
+        <state relative-caret-position="189">
+          <caret line="7" selection-start-line="7" selection-end-line="10" selection-end-column="5" />
           <folding>
-            <element signature="e#9327#9328#0" expanded="true" />
-            <element signature="e#9399#9400#0" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/uestc/jdk8/Student.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/abstractfactory/PythonArticle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/software/jdk/jdk1.8.0_211/src.zip!/java/util/Collection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="580" column="25" selection-start-line="580" selection-start-column="25" selection-end-line="580" selection-end-column="25" />
+        <state relative-caret-position="243">
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
           <folding>
-            <element signature="e#26270#26271#0" expanded="true" />
-            <element signature="e#26326#26327#0" expanded="true" />
-            <element signature="e#26957#26958#0" expanded="true" />
-            <element signature="e#27022#27023#0" expanded="true" />
+            <element signature="e#204#205#0" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/software/jdk/jdk1.8.0_211/src.zip!/java/util/stream/StreamSupport.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/abstractfactory/PythonVideo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="41" column="59" lean-forward="true" selection-start-line="41" selection-start-column="59" selection-end-line="41" selection-end-column="59" />
+        <state relative-caret-position="216">
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/software/jdk/jdk1.8.0_211/src.zip!/java/util/function/UnaryOperator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/abstractfactory/PythonCourseFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="45" column="46" lean-forward="true" selection-start-line="45" selection-start-column="46" selection-end-line="45" selection-end-column="46" />
+        <state relative-caret-position="297">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/uestc/jdk8/BinaryOperateTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/abstractfactory/JavaCourseFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/uestc/jdk8/StreamTest4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/software/jdk/jdk1.8.0_211/src.zip!/java/util/stream/LongStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="77" column="66" lean-forward="true" selection-start-line="77" selection-start-column="66" selection-end-line="77" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/software/jdk/jdk1.8.0_211/src.zip!/java/util/function/ToIntFunction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="34" column="2" lean-forward="true" selection-start-line="34" selection-start-column="2" selection-end-line="34" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/software/jdk/jdk1.8.0_211/src.zip!/java/util/function/IntSupplier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/software/jdk/jdk1.8.0_211/src.zip!/java/util/function/IntUnaryOperator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="48" column="32" lean-forward="true" selection-start-line="48" selection-start-column="32" selection-end-line="48" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/software/jdk/jdk1.8.0_211/src.zip!/java/util/stream/DoubleStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3332">
-          <caret line="320" column="7" lean-forward="true" selection-start-line="320" selection-start-column="7" selection-end-line="320" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/software/jdk/jdk1.8.0_211/src.zip!/java/util/function/BinaryOperator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="58" column="61" lean-forward="true" selection-start-line="58" selection-start-column="61" selection-end-line="58" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/software/jdk/jdk1.8.0_211/src.zip!/java/util/stream/Stream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="524">
-          <caret line="1059" column="48" selection-start-line="1059" selection-start-column="48" selection-end-line="1059" selection-end-column="48" />
+        <state relative-caret-position="243">
+          <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
           <folding>
-            <element signature="e#44888#44889#0" expanded="true" />
-            <element signature="e#44974#44975#0" expanded="true" />
-            <element signature="e#45237#45238#0" expanded="true" />
-            <element signature="e#45323#45324#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/software/jdk/jdk1.8.0_211/src.zip!/java/util/stream/Streams.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/abstractfactory/JavaArticle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2584">
-          <caret line="874" column="30" selection-start-line="874" selection-start-column="30" selection-end-line="874" selection-end-column="30" />
+        <state relative-caret-position="243">
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
           <folding>
-            <element signature="class#RangeIntSpliterator#0;class#Streams#0" />
-            <element signature="class#RangeLongSpliterator#0;class#Streams#0" />
-            <element signature="class#AbstractStreamBuilderImpl#0;class#Streams#0" />
-            <element signature="class#StreamBuilderImpl#0;class#Streams#0" />
-            <element signature="class#IntStreamBuilderImpl#0;class#Streams#0" />
-            <element signature="class#LongStreamBuilderImpl#0;class#Streams#0" />
-            <element signature="class#DoubleStreamBuilderImpl#0;class#Streams#0" />
-            <element signature="class#ConcatSpliterator#0;class#Streams#0" />
-            <element signature="class#26687:27238" />
-            <element signature="class#27645:28202" />
+            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#254#255#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/software/jdk/jdk1.8.0_211/src.zip!/java/util/stream/Collector.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/abstractfactory/CourseFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7616">
-          <caret line="254" column="28" selection-start-line="254" selection-start-column="28" selection-end-line="254" selection-end-column="28" />
+        <state relative-caret-position="243">
+          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/factorymethod/VideoFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="27" column="7" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/factorymethod/Video.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/factorymethod/PythonVideoFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
           <folding>
-            <element signature="method#of#0;class#Collector#0" />
-            <element signature="method#of#1;class#Collector#0" />
-            <element signature="class#Characteristics#0;class#Collector#0" />
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#254#255#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/software/jdk/jdk1.8.0_211/src.zip!/java/util/stream/BaseStream.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/abstractfactory/Article.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1428">
-          <caret line="73" column="27" selection-start-line="73" selection-start-column="27" selection-end-line="73" selection-end-column="27" />
+        <state relative-caret-position="189">
+          <caret line="7" column="35" lean-forward="true" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/software/jdk/jdk1.8.0_211/src.zip!/java/util/concurrent/CancellationException.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/abstractfactory/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="884">
-          <caret line="61" column="5" selection-start-line="61" selection-start-column="5" selection-end-line="61" selection-end-column="5" />
+        <state relative-caret-position="324">
+          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/software/jdk/jdk1.8.0_211/src.zip!/java/util/concurrent/FutureTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2210">
-          <caret line="98" column="34" selection-start-line="98" selection-start-column="34" selection-end-line="98" selection-end-column="34" />
+    <entry file="uml://JAVA/com.uestc.designpattern.creational.builder">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.uestc.designpattern.creational.builder</OriginalElement>
+          <nodes>
+            <node x="66.31249999999997" y="0.0">com.uestc.designpattern.creational.builder.Course</node>
+            <node x="149.29652777777775" y="205.0">com.uestc.designpattern.creational.builder.CourseBuilder</node>
+            <node x="199.79652777777775" y="388.0">com.uestc.designpattern.creational.builder.Test</node>
+            <node x="0.0" y="296.5">com.uestc.designpattern.creational.builder.CourseActualBuilder</node>
+            <node x="186.0" y="285.0">com.uestc.designpattern.creational.builder.Coach</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.uestc.designpattern.creational.builder.Test" target="com.uestc.designpattern.creational.builder.CourseBuilder">
+              <point x="-14.400000000000006" y="-15.0" />
+              <point x="221.39652777777775" y="358.0" />
+              <point x="175.5" y="358.0" />
+              <point x="175.5" y="265.0" />
+              <point x="198.04652777777775" y="265.0" />
+              <point x="-16.25" y="15.0" />
+            </edge>
+            <edge source="com.uestc.designpattern.creational.builder.Test" target="com.uestc.designpattern.creational.builder.Coach">
+              <point x="0.0" y="-15.0" />
+              <point x="235.79652777777775" y="368.0" />
+              <point x="240.5" y="368.0" />
+              <point x="-54.5" y="26.5" />
+            </edge>
+            <edge source="com.uestc.designpattern.creational.builder.Test" target="com.uestc.designpattern.creational.builder.CourseActualBuilder">
+              <point x="-28.80000000000001" y="-15.0" />
+              <point x="206.99652777777774" y="368.0" />
+              <point x="82.5" y="368.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.uestc.designpattern.creational.builder.CourseActualBuilder" target="com.uestc.designpattern.creational.builder.Course">
+              <point x="-20.625" y="-15.0" />
+              <point x="61.875" y="265.0" />
+              <point x="70.97395833333331" y="265.0" />
+              <point x="70.97395833333331" y="175.0" />
+              <point x="107.56249999999997" y="175.0" />
+              <point x="-41.25" y="72.5" />
+            </edge>
+            <edge source="com.uestc.designpattern.creational.builder.Coach" target="com.uestc.designpattern.creational.builder.CourseBuilder">
+              <point x="-72.66666666666669" y="-26.5" />
+              <point x="222.33333333333331" y="265.0" />
+              <point x="230.54652777777775" y="265.0" />
+              <point x="16.25" y="15.0" />
+            </edge>
+            <edge source="com.uestc.designpattern.creational.builder.CourseBuilder" target="com.uestc.designpattern.creational.builder.Course">
+              <point x="-2.8421709430404007E-14" y="-15.0" />
+              <point x="214.29652777777773" y="185.0" />
+              <point x="162.56249999999997" y="185.0" />
+              <point x="13.75" y="72.5" />
+            </edge>
+            <edge source="com.uestc.designpattern.creational.builder.Coach" target="com.uestc.designpattern.creational.builder.Course">
+              <point x="72.66666666666669" y="-26.5" />
+              <point x="367.6666666666667" y="265.0" />
+              <point x="364.43229166666663" y="265.0" />
+              <point x="364.43229166666663" y="175.0" />
+              <point x="190.06249999999997" y="175.0" />
+              <point x="41.25" y="72.5" />
+            </edge>
+            <edge source="com.uestc.designpattern.creational.builder.CourseActualBuilder" target="com.uestc.designpattern.creational.builder.CourseBuilder">
+              <point x="61.875" y="-15.0" />
+              <point x="144.375" y="265.0" />
+              <point x="165.54652777777775" y="265.0" />
+              <point x="-48.75" y="15.0" />
+            </edge>
+            <edge source="com.uestc.designpattern.creational.builder.Test" target="com.uestc.designpattern.creational.builder.Course">
+              <point x="28.80000000000001" y="-15.0" />
+              <point x="264.59652777777774" y="368.0" />
+              <point x="414.5" y="368.0" />
+              <point x="414.5" y="165.0" />
+              <point x="217.56249999999997" y="165.0" />
+              <point x="68.75" y="72.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-116.0" y="220.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Properties</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>public</VISIBILITY>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/uestc/jdk8/StreamTest15.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/builder/CourseBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+        <state relative-caret-position="344">
+          <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/builder/Coach.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="22" column="42" lean-forward="true" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/software/jdk/jdk1.8.0_211/src.zip!/java/util/Map.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/builder/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2890">
-          <caret line="34" column="41" selection-start-line="34" selection-start-column="41" selection-end-line="34" selection-end-column="41" />
+        <state relative-caret-position="270">
+          <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/software/jdk/jdk1.8.0_211/src.zip!/java/util/concurrent/Future.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/builder/Course.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="95" column="17" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/software/jdk/jdk1.8.0_211/src.zip!/java/util/concurrent/CompletionStage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7880">
-          <caret line="476" column="52" selection-start-line="476" selection-start-column="52" selection-end-line="476" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/software/jdk/jdk1.8.0_211/src.zip!/java/util/concurrent/CompletableFuture.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1428">
-          <caret line="106" column="19" selection-start-line="106" selection-start-column="19" selection-end-line="106" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/software/jdk/jdk1.8.0_211/src.zip!/java/util/stream/Collectors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="992" column="39" selection-start-line="992" selection-start-column="39" selection-end-line="992" selection-end-column="39" />
+          <caret line="8" selection-start-line="8" selection-end-line="13" selection-end-column="28" />
           <folding>
-            <element signature="e#5034#5035#0" expanded="true" />
-            <element signature="e#5067#5068#0" expanded="true" />
-            <element signature="e#5074#6891#0" />
-            <element signature="e#16803#16804#0" expanded="true" />
-            <element signature="e#16858#16859#0" expanded="true" />
-            <element signature="e#27827#27828#0" expanded="true" />
-            <element signature="e#27887#27888#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#358#359#0" expanded="true" />
+            <element signature="e#410#411#0" expanded="true" />
+            <element signature="e#454#455#0" expanded="true" />
+            <element signature="e#490#491#0" expanded="true" />
+            <element signature="e#522#523#0" expanded="true" />
+            <element signature="e#572#573#0" expanded="true" />
+            <element signature="e#614#615#0" expanded="true" />
+            <element signature="e#652#653#0" expanded="true" />
+            <element signature="e#686#687#0" expanded="true" />
+            <element signature="e#740#741#0" expanded="true" />
+            <element signature="e#786#787#0" expanded="true" />
+            <element signature="e#826#827#0" expanded="true" />
+            <element signature="e#862#863#0" expanded="true" />
+            <element signature="e#920#921#0" expanded="true" />
+            <element signature="e#970#971#0" expanded="true" />
+            <element signature="e#1005#1006#0" expanded="true" />
+            <element signature="e#1036#1037#0" expanded="true" />
+            <element signature="e#1084#1085#0" expanded="true" />
+            <element signature="e#1124#1125#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/software/jdk/jdk1.8.0_211/src.zip!/java/util/function/IntFunction.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/builder/CourseActualBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="40" column="33" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/software/jdk/jdk1.8.0_211/src.zip!/java/util/stream/IntStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="116" column="34" selection-start-line="116" selection-start-column="34" selection-end-line="116" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/uestc/jdk8/StreamTest14.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        <state relative-caret-position="317">
+          <caret line="33" column="5" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="33" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
+            <element signature="e#391#392#0" expanded="true" />
+            <element signature="e#412#413#0" expanded="true" />
+            <element signature="e#507#508#0" expanded="true" />
+            <element signature="e#528#529#0" expanded="true" />
+            <element signature="e#631#632#0" expanded="true" />
+            <element signature="e#652#653#0" expanded="true" />
+            <element signature="e#749#750#0" expanded="true" />
+            <element signature="e#770#771#0" expanded="true" />
+            <element signature="e#598#599#0" expanded="true" />
+            <element signature="e#625#626#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/uestc/jdk8/StreamTest16.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/builder/v2/Course.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="236">
+          <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
+          <folding>
+            <element signature="e#1960#1961#0" expanded="true" />
+            <element signature="e#1993#1994#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/builder/v2/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="81">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/28.0-jre/2d1dca555245ef4bacb35f25299f323d8dd10b27/guava-28.0-jre-sources.jar!/com/google/common/eventbus/package-info.java">
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_191/src.zip!/java/util/function/IntUnaryOperator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7550">
-          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        <state relative-caret-position="194">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/28.0-jre/2d1dca555245ef4bacb35f25299f323d8dd10b27/guava-28.0-jre-sources.jar!/com/google/common/eventbus/AllowConcurrentEvents.java">
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_191/src.zip!/java/util/stream/IntStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="604">
-          <caret line="34" column="42" lean-forward="true" selection-start-line="34" selection-start-column="42" selection-end-line="34" selection-end-column="42" />
+        <state relative-caret-position="194">
+          <caret line="101" column="25" lean-forward="true" selection-start-line="101" selection-start-column="25" selection-end-line="101" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/28.0-jre/2d1dca555245ef4bacb35f25299f323d8dd10b27/guava-28.0-jre-sources.jar!/com/google/common/eventbus/Subscribe.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uestc/duxiaoman/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="38" column="30" lean-forward="true" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
+        <state relative-caret-position="216">
+          <caret line="50" column="29" lean-forward="true" selection-start-line="50" selection-start-column="29" selection-end-line="50" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/28.0-jre/2d1dca555245ef4bacb35f25299f323d8dd10b27/guava-28.0-jre-sources.jar!/com/google/common/collect/HashMultimap.java">
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_191/src.zip!/java/lang/Thread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="46" column="60" selection-start-line="46" selection-start-column="60" selection-end-line="46" selection-end-column="60" />
+        <state relative-caret-position="156">
+          <caret line="756" column="28" lean-forward="true" selection-start-line="756" selection-start-column="28" selection-end-line="756" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/28.0-jre/2d1dca555245ef4bacb35f25299f323d8dd10b27/guava-28.0-jre-sources.jar!/com/google/common/collect/HashMultimapGwtSerializationDependencies.java">
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_191/src.zip!/java/io/ObjectInputStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="536">
-          <caret line="32" column="82" selection-start-line="32" selection-start-column="82" selection-end-line="32" selection-end-column="82" />
+        <state relative-caret-position="52893">
+          <caret line="2010" column="57" selection-start-line="2010" selection-start-column="57" selection-end-line="2010" selection-end-column="57" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/28.0-jre/2d1dca555245ef4bacb35f25299f323d8dd10b27/guava-28.0-jre-sources.jar!/com/google/common/collect/AbstractSetMultimap.java">
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_191/src.zip!/java/io/ObjectStreamClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31536">
+          <caret line="1253" column="11" selection-start-line="1253" selection-start-column="11" selection-end-line="1253" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/singlton/LazySingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/singlton/StaticInnerClassSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/singlton/LazyDoubleCheckSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/singlton/EnumInstance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="39" lean-forward="true" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+          <folding>
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#233#234#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/singlton/ContainerSinglton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#495#496#0" expanded="true" />
+            <element signature="e#528#529#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/classes/com/uestc/designpattern/creational/singlton/EnumInstance$1.jad">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/classes/com/uestc/designpattern/creational/singlton/EnumInstance.jad">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="27" column="40" lean-forward="true" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_191/src.zip!/java/lang/ThreadLocal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="307" column="41" lean-forward="true" selection-start-line="307" selection-start-column="41" selection-end-line="307" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_191/src.zip!/java/lang/ref/WeakReference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="60" column="39" selection-start-line="60" selection-start-column="39" selection-end-line="60" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/singlton/T.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="51" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/singlton/ThreadLocalInstance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#390#391#0" expanded="true" />
+            <element signature="e#431#432#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/prototype/MailUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="76" selection-start-line="16" selection-start-column="76" selection-end-line="16" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_191/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1971">
+          <caret line="150" lean-forward="true" selection-start-line="150" selection-end-line="150" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/prototype/Mail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="39" column="13" lean-forward="true" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+          <folding>
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+            <element signature="e#329#330#0" expanded="true" />
+            <element signature="e#356#357#0" expanded="true" />
+            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#428#429#0" expanded="true" />
+            <element signature="e#467#468#0" expanded="true" />
+            <element signature="e#502#503#0" expanded="true" />
+            <element signature="e#558#559#0" expanded="true" />
+            <element signature="e#606#607#0" expanded="true" />
+            <element signature="e#640#641#0" expanded="true" />
+            <element signature="e#670#671#0" expanded="true" />
+            <element signature="e#716#717#0" expanded="true" />
+            <element signature="e#754#755#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/prototype/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
-          <caret line="35" column="56" selection-start-line="35" selection-start-column="56" selection-end-line="35" selection-end-column="56" />
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/28.0-jre/2d1dca555245ef4bacb35f25299f323d8dd10b27/guava-28.0-jre-sources.jar!/com/google/common/collect/AbstractMapBasedMultimap.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/prototype/abstractprototype/A.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="86" column="63" selection-start-line="86" selection-start-column="63" selection-end-line="86" selection-end-column="63" />
+        <state relative-caret-position="243">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/28.0-jre/2d1dca555245ef4bacb35f25299f323d8dd10b27/guava-28.0-jre-sources.jar!/com/google/common/collect/AbstractMultimap.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/prototype/abstractprototype/B.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="40" column="54" lean-forward="true" selection-start-line="40" selection-start-column="54" selection-end-line="40" selection-end-column="54" />
+        <state relative-caret-position="324">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/28.0-jre/2d1dca555245ef4bacb35f25299f323d8dd10b27/guava-28.0-jre-sources.jar!/com/google/common/collect/Multimap.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/prototype/clone/Pig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="341" lean-forward="true" selection-start-line="341" selection-end-line="341" />
+        <state relative-caret-position="409">
+          <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+          <folding>
+            <element signature="e#355#356#0" expanded="true" />
+            <element signature="e#382#383#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+            <element signature="e#454#455#0" expanded="true" />
+            <element signature="e#487#488#0" expanded="true" />
+            <element signature="e#518#519#0" expanded="true" />
+            <element signature="e#564#565#0" expanded="true" />
+            <element signature="e#604#605#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/28.0-jre/2d1dca555245ef4bacb35f25299f323d8dd10b27/guava-28.0-jre-sources.jar!/com/google/common/eventbus/SubscriberRegistry.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/prototype/clone/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="168" column="29" lean-forward="true" selection-start-line="168" selection-start-column="29" selection-end-line="168" selection-end-column="29" />
+        <state relative-caret-position="382">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/singlton/HungrySingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uestc/designpattern/creational/singlton/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="20" column="39" lean-forward="true" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Bundled Protobuf Distribution</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>LeetCode.LeetCode</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: jline:jline:0.9.94</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ScopeChooserConfigurable.UI">
         <settings>
           <splitter-proportions>
