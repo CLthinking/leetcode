@@ -4,35 +4,20 @@ import com.uestc.leetcode.ArrayUtil;
 
 import java.security.SecureRandom;
 import java.util.Arrays;
-import java.util.Scanner;
 
 public class NO2 {
 
     private static int no2(int[] nums, int val) {
-        Arrays.sort(nums);
-        int res = 0;
-        for (int i = 0; i < nums.length - 2; i++) {
-            int idx = findIndex(nums, i + 1, val + nums[i]);
-            if (idx - i >= 2) {
-                res += (idx - i) * (idx - i - 1) / 2;
+        //Arrays.sort(nums);
+        long res = 0;
+        for (int i = 0, j = 0; i < nums.length - 2; i++) {
+            while ((j = Math.max(j, i + 2)) < nums.length && nums[j] - nums[i] <= val) j++;
+            if (j - i > 2) {
+                res += (j - i - 1) * (j - i - 2) / 2;
+                res %= 99997867;
             }
         }
-        return res;
-    }
-    private static int findIndex(int[] nums, int start, int target) {
-        int lo = start;
-        int hi = nums.length - 1;
-        while (lo <= hi) {
-            int mid = (lo + hi) / 2;
-            if (nums[mid] < target) {
-                lo = mid + 1;
-            } else if (nums[mid] > target) {
-                hi = mid - 1;
-            } else {
-                return mid;
-            }
-        }
-        return hi;
+        return (int)res;
     }
 
     public static void main(String[] args) {
@@ -47,9 +32,12 @@ public class NO2 {
 //        int val = 60;
 //        System.out.println(no2(nums, val));
 //        System.out.println(arrest2(nums, val));
-        test();
-        System.out.println("done");
+//        test();
+//        System.out.println("done");
         //System.out.println(Arrays.toString(ArrayUtil.getRandomArrayNoRepeat(10,0,20)));
+
+        int[] nums = {1,2,3,4};
+        System.out.println(no2(nums, 3));
     }
 
     private static void test() {
